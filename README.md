@@ -2,4 +2,4 @@
 
 @ practice button control
 
-<image src='cars.html' width='400px'>
+<image src='jquery_button_car_page.JPG' width='400px'>
