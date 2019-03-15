@@ -1,6 +1,6 @@
 # jquery_mobile1
 
-need 3 source links for jquery mobile 
+<b>Need 3 source links for jquery mobile </b>
 
 <link rel="stylesheet" href="../jquery.mobile/jquery.mobile-1.4.2.css" />
 
