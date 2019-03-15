@@ -8,12 +8,27 @@
 
     <script src="jquery.mobile/jquery.mobile-1.4.2.js" type="text/javascript"></script>
 
+
 Divide page section : data-role="page"
+
+page section can have : 
 
 Header : data-role="header"
 
 Footer : data-role="footer"
 
+     <section id="Car" data-role="page">
+            <div data-role="header">
+                <h1>Car Infomation</h1>		
+            </div>
+            <div class="ui-content">
+                <p>This is content</p>           
+            </div>
+            <footer data-role="footer">
+                <h2>Page Footer</h2>
+            </footer>
+     </section>
+ 
 
 <b>1.  practice button control</b>
 
