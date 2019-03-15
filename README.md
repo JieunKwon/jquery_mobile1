@@ -2,11 +2,11 @@
 
 <b>Need 3 source links for jquery mobile </b>
 
-<link rel="stylesheet" href="../jquery.mobile/jquery.mobile-1.4.2.css" />
+    <link rel="stylesheet" href="../jquery.mobile/jquery.mobile-1.4.2.css" />
 
-<script src="jquery-1.11.0.js" type="text/javascript"></script>
+    <script src="jquery-1.11.0.js" type="text/javascript"></script>
 
-<script src="jquery.mobile/jquery.mobile-1.4.2.js" type="text/javascript"></script>
+    <script src="jquery.mobile/jquery.mobile-1.4.2.js" type="text/javascript"></script>
 
 
 <b>1.  practice button control</b>
