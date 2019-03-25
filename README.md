@@ -53,4 +53,4 @@ using class="ui-field-contain"
     
 <b>4. Dialog </b>
 
-<div data-role="dialog"> </div>
+using   data-role="dialog" 
