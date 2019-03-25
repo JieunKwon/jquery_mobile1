@@ -49,3 +49,8 @@ class="ui-field-contain"
 using class="ui-field-contain"
 
 <image src='jquery_login.JPG' width='400px'>
+    
+    
+<b>4. Dialog </b>
+
+<div data-role="dialog"> </div>
