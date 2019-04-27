@@ -1,6 +1,14 @@
 # jquery_mobile1
 
-<b>Need 3 source links for jquery mobile </b>
+
+- Jquery resources
+
+- Basic page role, header, and footer
+
+- Buttons to link
+ 
+
+<b>For jquery mobile, need 3 resources links</b>
 
     <link rel="stylesheet" href="../jquery.mobile/jquery.mobile-1.4.2.css" />
 
